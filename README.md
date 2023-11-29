@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruva Rawal</h1>
+<h1 align="center">Hi, I'm Dhruva Rawal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvarawal&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvarawal" /> </p>
 
 - 📫 How to reach me: **rawaldhruva2004@gmail.com**
